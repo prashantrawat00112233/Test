@@ -230,7 +230,7 @@ body {
 /* === Hero Section === */
 .hero {
   width: 100vw;
-  height: 20vh;
+  height: 10vh;
   background: black;
   display: flex;
   align-items: center;
@@ -267,6 +267,6 @@ body {
 
 @media screen and (orientation: landscape) {
   .hero {
-    height: 110vh;
+    height: 80vh;
   }
 }
