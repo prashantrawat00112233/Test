@@ -267,6 +267,6 @@ body {
 
 @media screen and (orientation: landscape) {
   .hero {
-    height: 120vh;
+    height: 118vh;
   }
 }
