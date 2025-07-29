@@ -230,7 +230,7 @@ body {
 /* === Hero Section === */
 .hero {
   width: 100vw;
-  height: 26vh;
+  height: 24vh;
   background: black;
   display: flex;
   align-items: center;
